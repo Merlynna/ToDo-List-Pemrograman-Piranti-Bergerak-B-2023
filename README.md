@@ -59,6 +59,9 @@ Nim  : 2109106143
 <img width="1920" height="1008" alt="Screenshot (728)" src="https://github.com/user-attachments/assets/1ba08e88-d13e-463f-92d8-231d43fe784b" />
 
 
+## Analisis
+
+
 Dalam program ini menggunakan konsep ToDo, yang bekerja untuk melakukan sesuai dengan keinginan penggunanya (**user**). ToDo seperti mode _Switch_, maupun _If-Else_, namun bedanya terletak pada cara komposisinya. Dalam pemrograman, terdapat beberapa istilah dan struktur logika yang sering digunakan oleh programmer, yaitu _ToDo_, _Switch_, dan _If-Else_. Meskipun ketiganya sama-sama sering muncul ketika menulis kode, sebenarnya mereka memiliki fungsi dan tujuan yang berbeda.
 
 Pertama, ToDo bukanlah struktur logika untuk mengatur jalannya program, melainkan hanya sebuah catatan atau penanda di dalam kode. ToDo biasanya ditulis oleh programmer untuk mengingatkan dirinya sendiri bahwa ada bagian kode yang belum selesai atau masih perlu dilengkapi. Banyak IDE atau editor kode seperti Android Studio atau Visual Studio Code yang secara otomatis mengelompokkan catatan // TODO sehingga programmer bisa dengan mudah melihat daftar pekerjaan yang belum dikerjakan. Jadi, bisa dikatakan bahwa ToDo hanya berfungsi sebagai pengingat atau “daftar tugas” dalam kode, dan sama sekali tidak akan dieksekusi oleh program ketika dijalankan.

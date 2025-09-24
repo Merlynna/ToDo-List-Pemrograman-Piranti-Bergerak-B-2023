@@ -58,3 +58,6 @@ Nim  : 2109106143
 <img width="1920" height="1005" alt="Screenshot (727)" src="https://github.com/user-attachments/assets/ef5486e4-316c-4085-998c-ca9237e11f42" />
 <img width="1920" height="1008" alt="Screenshot (728)" src="https://github.com/user-attachments/assets/1ba08e88-d13e-463f-92d8-231d43fe784b" />
 
+
+Dalam program ini menggunakan konsep ToDo, yang bekerja untuk melakukan sesuai dengan keinginan penggunanya (## user).
+

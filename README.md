@@ -1,8 +1,7 @@
 # ToDo-List-Pemrograman-Piranti-Bergerak-B-2023
 Tugas Pemrograman Piranti Bergerak B 2023
 
-Nama : Marlina Yunus
-Nim  : 2109106143
+**Marlina Yunus (2109106143)**
 
 
 ## Gambar Hasil Perancangan:
